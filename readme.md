@@ -55,8 +55,11 @@
 
 <div>
   <img height=180em 
-       src="https://github-readme-stats.vercel.app/api?username=Gabypond&show_icons=true&theme=panda&include_all_commits=true&count_private=true&border_radius=10px"></img>
+       src="https://github-readme-stats.vercel.app/api?username=Gabypond&show_icons=true&theme=panda&include_all_commits=true&count_private=true&border_radius=10px">     </img>
+</div>
+<div>
   <img height=180em 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabypond&layout=compact&langs_count=7&theme=panda&border_radius=10px"></img>
 </div>
+
 
