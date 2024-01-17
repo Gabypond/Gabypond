@@ -29,7 +29,7 @@
 ## 📚 I´m learning about...
 
 <div>
-  <img aling="bottom" alt="sass" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></img> 
+  <img aling="bottom" alt="sass" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img> 
   <img 
   aling="bottom" alt="sass" width="50px" height="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
