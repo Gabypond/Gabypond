@@ -45,8 +45,8 @@
   <a href="https://www.linkedin.com/in/gabrielly-alves-barbosa-dos-santos/">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>
-  <a href="mailto:gaby.alvespond@gmail.com">
-    <img alt="gaby.alvespond@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  <a href="mailto:gabrielly.alvesdev@gmail.com">
+    <img alt="gabrielly.alvesdev@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>
 </div>
 
